@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyanideLev
+- 👋 Hi, I’m @CyanideLev.
 I'm a scientist, or something. 
 
 <!---
